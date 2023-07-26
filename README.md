@@ -1,5 +1,5 @@
 # Título del proyecto
-Catálogo de moda de comercio electrónico: creación de una tienda de ropa basada en la web con tecnología de inteligencia artificial
+Sistema web de venta de ropa de catálogo
 # Summary
 El proyecto tiene como objetivo crear una tienda de ropa basada en la web con tecnología de inteligencia artificial que ofrezca recomendaciones de moda personalizadas, funcionalidades de búsqueda eficientes y un usuario interactivo experiencia. 
 El sistema web de venta de ropa es una herramienta que utiliza tecnología de inteligencia artificial para mejorar la experiencia de compra de los usuarios de tiendas virtuales de ropa . Esto se logra a través de la implementación de recomendaciones personalizadas de moda, la optimización de búsquedas y la creación de una experiencia interactiva de usuario. La inteligencia artificial permite procesar grandes cantidades de datos y aportar sugerencias relevantes y personalizadas, lo que puede mejorar la experiencia de compra y la satisfacción del cliente. 
